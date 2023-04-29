@@ -41,5 +41,6 @@ Each obstacle type is described in depth below:
 (c) The player can activate the special ability by pressing “Q”.
 (d) The player pauses and resumes playing by pressing the “ESC” button.
 
+![Screenshot (64)](https://user-images.githubusercontent.com/93290914/235306288-261f102f-2153-4f4f-8cd2-992a45fe91b7.png)
 
 
